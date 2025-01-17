@@ -24,7 +24,7 @@ It is running `NeoVim v0.9.5` really fast with some nice features, including:
 - AnnotatePDF (creates a local `.md` file with highlights and notes from citation under the cursor)
 - Pandoc (convert between file formats)
 - Telescope (search citations, files, words, etc.)
-- And lots more!
+- And lots more! (YouTube Video URL: https://www.youtube.com/watch?v=yfh6JqmrVL0)
 
 ![Screenshot of the configuration](images/screenshot_cite.png)
 
